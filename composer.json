@@ -2,6 +2,6 @@
     "name": "oggettoweb/coding_standard",
     "description": "Oggetto Web coding standard sniffs for PHPCodeSniffer",
     "require": {
-        "squizlabs/php_codesniffer": "1.*"
+        "squizlabs/php_codesniffer": "2.*"
     }
 }
